@@ -1,0 +1,5 @@
+1、安装完成启动超盟助手软件时提示计算机中丢失api-ms-win-crt-runtimel1-1-0.dll。
+2、需要安装Visual C++ Redistributable for Visual Studio 2015。
+3、根据自己的电脑系统类型。
+4、64位安装vc_redist.x64文件。
+5、32位安装vc_redist.x86文件。
